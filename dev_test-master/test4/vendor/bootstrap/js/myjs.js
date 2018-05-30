@@ -1,0 +1,1 @@
+$('#targetButton').hover(function () {$(this).css('color', 'green');})
